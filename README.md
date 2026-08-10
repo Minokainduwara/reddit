@@ -73,3 +73,9 @@ export default defineConfig([
 ])
 
 ```
+npm create vite@latest reddit -- --template react-ts
+npm install convex
+npm i --save-dev @types/node
+npm install @clerk/react
+npm i --save-dev @types/node @clerk/backend svix react-
+router-dom react-icons
