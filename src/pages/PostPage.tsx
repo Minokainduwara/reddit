@@ -1,4 +1,4 @@
-import "..styles/PostPage.css"
+import "../styles/PostPage.css"
 
 const PostPage = () => {
     return <div>PostPage</div>
